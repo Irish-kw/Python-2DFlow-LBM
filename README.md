@@ -8,5 +8,5 @@ Example1 : 1-cylinder with red color in Velocity field RE=220
 ![image](https://github.com/weisting-sinica/python-2DFlow-LBM/blob/master/FlowAroundCylinder.gif)
 
 
-Example2: 2-different-size-cylinder with nomarl color in Velocity field RE=220
+Example2: 2-different-size-cylinder with normal color in Velocity field RE=220
 ![image](https://github.com/weisting-sinica/python-2DFlow-LBM/blob/master/twocylinder.gif)
