@@ -11,4 +11,4 @@ cx = nx/4; cy=ny/2; r=ny/9  (Coordinates of the cylinder.)
 uLB     = 0.04  (Velocity in lattice units.)         
 nulb    = uLB*r/Re; omega = 1.0 / (3.*nulb+0.5) (Relaxation parameter.)        
 
-![image](https://github.com/weisting-sinica/python-2DFlow-LBM/blob/master/lbmFlowAroundCylinder.gif)
+![image](https://github.com/weisting-sinica/python-2DFlow-LBM/blob/master/FlowAroundCylinder.gif)
