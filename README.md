@@ -4,11 +4,8 @@
 The Lattice Boltzmann Method (LBM) is a modern numerical technique, very efficient, 
 flexible to simulate different flows within complex and varying geometries.
 
-
-parameter---------------------------------------------,
-maxIter = 200000 # Total number of time iterations.
-
-Re      = 220.0  # Reynolds number.
+maxIter = 200000 (Total number of time iterations).
+Re      = 220.0  (Reynolds number).
 
 nx = 520; ny = 180; ly=ny-1.0; q = 9 # Lattice dimensions and populations.
 
